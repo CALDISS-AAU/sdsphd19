@@ -12,31 +12,21 @@
     
     
     <item>
+      <title>Lecturers</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</link>
+      <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</guid>
+      <description>The team of lecturers and TAs</description>
+    </item>
+    
+    <item>
       <title>Data Science with Python</title>
       <link>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</guid>
       <description>Monday: Working with Python and tabular data</description>
-    </item>
-    
-    <item>
-      <title>Install Hugo</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/material/install-hugo/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://caldiss-aau.github.io/sdsphd19/material/install-hugo/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
-    </item>
-    
-    <item>
-      <title>Specimen</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/material/specimen/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://caldiss-aau.github.io/sdsphd19/material/specimen/</guid>
-      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements  Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor.</description>
     </item>
     
   </channel>
