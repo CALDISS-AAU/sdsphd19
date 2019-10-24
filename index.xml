@@ -21,12 +21,30 @@
     </item>
     
     <item>
+      <title>Stuff</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/stuff/</link>
+      <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/stuff/</guid>
+      <description>More stuff</description>
+    </item>
+    
+    <item>
       <title>Data Science with Python</title>
       <link>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</guid>
       <description>Monday: Working with Python and tabular data</description>
+    </item>
+    
+    <item>
+      <title>How to edit</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/material/edit/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/material/edit/</guid>
+      <description>a quick explainer how to edit the page</description>
     </item>
     
     <item>
