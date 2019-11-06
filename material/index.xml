@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on AAU Social Data Science PhD 2019</title>
+    <title>Course Materials on AAU Social Data Science PhD 2019</title>
     <link>https://caldiss-aau.github.io/sdsphd19/material/</link>
-    <description>Recent content in Overview on AAU Social Data Science PhD 2019</description>
+    <description>Recent content in Course Materials on AAU Social Data Science PhD 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -12,21 +12,30 @@
     
     
     <item>
-      <title>Data Science with Python</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</link>
-      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      <title>E-Courses (DataCamp)</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/material/e-courses/</link>
+      <pubDate>Mon, 04 Nov 2019 18:34:38 +0100</pubDate>
       
-      <guid>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</guid>
-      <description>Monday: Working with Python and tabular data</description>
+      <guid>https://caldiss-aau.github.io/sdsphd19/material/e-courses/</guid>
+      <description>DataCamp provides access to e-courses. These are mandatory preparation.</description>
     </item>
     
     <item>
-      <title>How to edit</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/material/edit/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      <title>Literature/appendix</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/material/literature/</link>
+      <pubDate>Mon, 04 Nov 2019 18:34:27 +0100</pubDate>
       
-      <guid>https://caldiss-aau.github.io/sdsphd19/material/edit/</guid>
-      <description>a quick explainer how to edit the page</description>
+      <guid>https://caldiss-aau.github.io/sdsphd19/material/literature/</guid>
+      <description>Relevant literature and references for further reading can be found here (updated continuously).</description>
+    </item>
+    
+    <item>
+      <title>Course schedule</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/material/course_schedule/</link>
+      <pubDate>Mon, 04 Nov 2019 14:51:42 +0100</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/material/course_schedule/</guid>
+      <description>The schedule for the course with links to the relevant notebooks</description>
     </item>
     
   </channel>

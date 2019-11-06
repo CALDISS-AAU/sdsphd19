@@ -17,34 +17,61 @@
       <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</guid>
-      <description>The team of lecturers and TAs</description>
+      <description>The team of lecturers.</description>
     </item>
     
     <item>
-      <title>Stuff</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/info/stuff/</link>
-      <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
-      
-      <guid>https://caldiss-aau.github.io/sdsphd19/info/stuff/</guid>
-      <description>More stuff</description>
-    </item>
-    
-    <item>
-      <title>Data Science with Python</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</link>
+      <title>An introduction to Python and Data Science</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/notebooks/pyintro/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</guid>
-      <description>Monday: Working with Python and tabular data</description>
+      <guid>https://caldiss-aau.github.io/sdsphd19/notebooks/pyintro/</guid>
+      <description>Description and notebook for Monday November 25th</description>
     </item>
     
     <item>
-      <title>How to edit</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/material/edit/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      <title>Practical information</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/practical/</link>
+      <pubDate>Tue, 05 Nov 2019 09:58:34 +0100</pubDate>
       
-      <guid>https://caldiss-aau.github.io/sdsphd19/material/edit/</guid>
-      <description>a quick explainer how to edit the page</description>
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/practical/</guid>
+      <description>Read about the teaching format, meals provided and other relevant info.</description>
+    </item>
+    
+    <item>
+      <title>Prerequisites</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/prerequisites/</link>
+      <pubDate>Tue, 05 Nov 2019 09:41:25 +0100</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/prerequisites/</guid>
+      <description>Make sure to bring your own computer with a Google account.</description>
+    </item>
+    
+    <item>
+      <title>E-Courses (DataCamp)</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/material/e-courses/</link>
+      <pubDate>Mon, 04 Nov 2019 18:34:38 +0100</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/material/e-courses/</guid>
+      <description>DataCamp provides access to e-courses. These are mandatory preparation.</description>
+    </item>
+    
+    <item>
+      <title>Literature/appendix</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/material/literature/</link>
+      <pubDate>Mon, 04 Nov 2019 18:34:27 +0100</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/material/literature/</guid>
+      <description>Relevant literature and references for further reading can be found here (updated continuously).</description>
+    </item>
+    
+    <item>
+      <title>Course schedule</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/material/course_schedule/</link>
+      <pubDate>Mon, 04 Nov 2019 14:51:42 +0100</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/material/course_schedule/</guid>
+      <description>The schedule for the course with links to the relevant notebooks</description>
     </item>
     
     <item>
@@ -53,7 +80,7 @@
       <pubDate>Fri, 25 Oct 2019 00:02:52 +0200</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/info/logistics/</guid>
-      <description>Everything you need to know about getting around Aalborg</description>
+      <description>Everything you need to know about getting to and from the PhD course.</description>
     </item>
     
   </channel>

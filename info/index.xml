@@ -17,16 +17,25 @@
       <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</guid>
-      <description>The team of lecturers and TAs</description>
+      <description>The team of lecturers.</description>
     </item>
     
     <item>
-      <title>Stuff</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/info/stuff/</link>
-      <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
+      <title>Practical information</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/practical/</link>
+      <pubDate>Tue, 05 Nov 2019 09:58:34 +0100</pubDate>
       
-      <guid>https://caldiss-aau.github.io/sdsphd19/info/stuff/</guid>
-      <description>More stuff</description>
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/practical/</guid>
+      <description>Read about the teaching format, meals provided and other relevant info.</description>
+    </item>
+    
+    <item>
+      <title>Prerequisites</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/info/prerequisites/</link>
+      <pubDate>Tue, 05 Nov 2019 09:41:25 +0100</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/info/prerequisites/</guid>
+      <description>Make sure to bring your own computer with a Google account.</description>
     </item>
     
     <item>
@@ -35,7 +44,7 @@
       <pubDate>Fri, 25 Oct 2019 00:02:52 +0200</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/info/logistics/</guid>
-      <description>Everything you need to know about getting around Aalborg</description>
+      <description>Everything you need to know about getting to and from the PhD course.</description>
     </item>
     
   </channel>

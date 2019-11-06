@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</loc>
-    <lastmod>2019-10-24T23:21:30+02:00</lastmod>
+    <loc>https://caldiss-aau.github.io/sdsphd19/notebooks/</loc>
+    <lastmod>2019-11-04T16:31:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://caldiss-aau.github.io/sdsphd19/info/stuff/</loc>
+    <loc>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</loc>
     <lastmod>2019-10-24T23:21:30+02:00</lastmod>
   </url>
   
@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://caldiss-aau.github.io/sdsphd19/material/pyintro/</loc>
+    <loc>https://caldiss-aau.github.io/sdsphd19/notebooks/pyintro/</loc>
     <lastmod>2019-02-11T19:30:08+10:00</lastmod>
   </url>
   
@@ -28,8 +28,28 @@
   </url>
   
   <url>
-    <loc>https://caldiss-aau.github.io/sdsphd19/material/edit/</loc>
-    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
+    <loc>https://caldiss-aau.github.io/sdsphd19/info/practical/</loc>
+    <lastmod>2019-11-05T09:58:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://caldiss-aau.github.io/sdsphd19/info/prerequisites/</loc>
+    <lastmod>2019-11-05T09:41:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://caldiss-aau.github.io/sdsphd19/material/e-courses/</loc>
+    <lastmod>2019-11-04T18:34:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://caldiss-aau.github.io/sdsphd19/material/literature/</loc>
+    <lastmod>2019-11-04T18:34:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://caldiss-aau.github.io/sdsphd19/material/course_schedule/</loc>
+    <lastmod>2019-11-04T14:51:42+01:00</lastmod>
   </url>
   
   <url>
