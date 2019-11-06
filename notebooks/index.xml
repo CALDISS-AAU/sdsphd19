@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+>>>>>>> 2a305fadfb75c6f55063abd36d2edb0f225b6a9a
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Course Notebooks on AAU Social Data Science PhD 2019</title>
