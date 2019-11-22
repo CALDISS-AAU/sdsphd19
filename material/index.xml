@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Course Materials on AAU Social Data Science PhD 2019</title>
+    <title>Materials &amp; schedule on AAU Social Data Science PhD 2019</title>
     <link>https://caldiss-aau.github.io/sdsphd19/material/</link>
-    <description>Recent content in Course Materials on AAU Social Data Science PhD 2019</description>
+    <description>Recent content in Materials &amp; schedule on AAU Social Data Science PhD 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 04 Nov 2019 14:51:42 +0100</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/material/course_schedule/</guid>
-      <description>The schedule for the course with links to the relevant notebooks</description>
+      <description>The schedule for the course with links to the relevant sessions</description>
     </item>
     
   </channel>
