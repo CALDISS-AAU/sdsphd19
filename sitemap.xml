@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://caldiss-aau.github.io/sdsphd19/notebooks/</loc>
+    <loc>https://caldiss-aau.github.io/sdsphd19/sessions/</loc>
     <lastmod>2019-11-04T16:31:46+01:00</lastmod>
   </url>
   
@@ -18,7 +18,12 @@
   </url>
   
   <url>
-    <loc>https://caldiss-aau.github.io/sdsphd19/notebooks/pyintro/</loc>
+    <loc>https://caldiss-aau.github.io/sdsphd19/sessions/pyintro/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://caldiss-aau.github.io/sdsphd19/sessions_content/pyintro/</loc>
     <lastmod>2019-02-11T19:30:08+10:00</lastmod>
   </url>
   
@@ -55,6 +60,11 @@
   <url>
     <loc>https://caldiss-aau.github.io/sdsphd19/info/logistics/</loc>
     <lastmod>2019-10-25T00:02:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://caldiss-aau.github.io/sdsphd19/sessions_content/</loc>
+    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
   </url>
   
   <url>

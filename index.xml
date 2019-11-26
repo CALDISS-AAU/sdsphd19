@@ -17,15 +17,24 @@
       <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/info/lecturers/</guid>
-      <description>The team of lecturers.</description>
+      <description>The team of lecturers and organizers.</description>
     </item>
     
     <item>
       <title>An introduction to Python and Data Science</title>
-      <link>https://caldiss-aau.github.io/sdsphd19/notebooks/pyintro/</link>
+      <link>https://caldiss-aau.github.io/sdsphd19/sessions/pyintro/</link>
       <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
       
-      <guid>https://caldiss-aau.github.io/sdsphd19/notebooks/pyintro/</guid>
+      <guid>https://caldiss-aau.github.io/sdsphd19/sessions/pyintro/</guid>
+      <description>Description and notebook for Monday November 25th</description>
+    </item>
+    
+    <item>
+      <title>An introduction to Python and Data Science</title>
+      <link>https://caldiss-aau.github.io/sdsphd19/sessions_content/pyintro/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd19/sessions_content/pyintro/</guid>
       <description>Description and notebook for Monday November 25th</description>
     </item>
     
@@ -71,7 +80,7 @@
       <pubDate>Mon, 04 Nov 2019 14:51:42 +0100</pubDate>
       
       <guid>https://caldiss-aau.github.io/sdsphd19/material/course_schedule/</guid>
-      <description>The schedule for the course with links to the relevant notebooks</description>
+      <description>The schedule for the course with links to the relevant sessions</description>
     </item>
     
     <item>
